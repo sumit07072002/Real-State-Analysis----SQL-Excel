@@ -1,0 +1,114 @@
+type,city,interest_rate,average_listing_prices,percentage_change
+Apartment,Chicago,3.5,891100.09,NULL
+Apartment,Chicago,4,1233624.38,38.44
+Apartment,Chicago,4.5,885089.87,-28.25
+Apartment,Chicago,5,1141766.59,29
+Apartment,"Los Angeles",3.5,850368.67,NULL
+Apartment,"Los Angeles",4,1483940.51,74.51
+Apartment,"Los Angeles",4.5,985795.95,-33.57
+Apartment,"Los Angeles",5,1135452.19,15.18
+Apartment,Miami,3.5,1473825.31,NULL
+Apartment,Miami,4,999369.69,-32.19
+Apartment,Miami,4.5,1218881.25,21.97
+Apartment,Miami,5,1198463.76,-1.68
+Apartment,"New York",3.5,1113437.69,NULL
+Apartment,"New York",4,1029229.4,-7.56
+Apartment,"New York",4.5,782638.27,-23.96
+Apartment,"New York",5,1203999.99,53.84
+Apartment,"San Francisco",3.5,987710.36,NULL
+Apartment,"San Francisco",4,1209331.56,22.44
+Apartment,"San Francisco",4.5,1134025.94,-6.23
+Apartment,"San Francisco",5,984718.79,-13.17
+Apartment,Seattle,3.5,882671.54,NULL
+Apartment,Seattle,4,1005162.65,13.88
+Apartment,Seattle,4.5,824824.04,-17.94
+Apartment,Seattle,5,1061733.15,28.72
+Condo,Chicago,3.5,1259407.99,NULL
+Condo,Chicago,4,1135957.77,-9.8
+Condo,Chicago,4.5,915125.56,-19.44
+Condo,Chicago,5,900174.67,-1.63
+Condo,"Los Angeles",3.5,826625.71,NULL
+Condo,"Los Angeles",4,1047601.24,26.73
+Condo,"Los Angeles",4.5,1188495.29,13.45
+Condo,"Los Angeles",5,1270912.27,6.93
+Condo,Miami,3.5,1039423.05,NULL
+Condo,Miami,4,1105800.4,6.39
+Condo,Miami,4.5,1273340.6,15.15
+Condo,Miami,5,820133.31,-35.59
+Condo,"New York",3.5,1011557.18,NULL
+Condo,"New York",4,1298150.46,28.33
+Condo,"New York",4.5,1126196.84,-13.25
+Condo,"New York",5,864274.55,-23.26
+Condo,"San Francisco",3.5,852177.39,NULL
+Condo,"San Francisco",4,1245570.81,46.16
+Condo,"San Francisco",4.5,1082149.76,-13.12
+Condo,"San Francisco",5,1222354.98,12.96
+Condo,Seattle,3.5,1106112.66,NULL
+Condo,Seattle,4,1513067.23,36.79
+Condo,Seattle,4.5,1087982.62,-28.09
+Condo,Seattle,5,1151415.94,5.83
+House,Chicago,3.5,1031468.28,NULL
+House,Chicago,4,1101685.66,6.81
+House,Chicago,4.5,1015945.06,-7.78
+House,Chicago,5,955131.47,-5.99
+House,"Los Angeles",3.5,1090252.67,NULL
+House,"Los Angeles",4,845140.55,-22.48
+House,"Los Angeles",4.5,805185.12,-4.73
+House,"Los Angeles",5,1263619.27,56.94
+House,Miami,3.5,1199735.72,NULL
+House,Miami,4,1061261.14,-11.54
+House,Miami,4.5,1246593.38,17.46
+House,Miami,5,840362.71,-32.59
+House,"New York",3.5,871012.02,NULL
+House,"New York",4,1277998.63,46.73
+House,"New York",4.5,1150406.14,-9.98
+House,"New York",5,950524.81,-17.37
+House,"San Francisco",3.5,1170645.93,NULL
+House,"San Francisco",4,1137874.74,-2.8
+House,"San Francisco",4.5,1145382.09,0.66
+House,"San Francisco",5,964902.62,-15.76
+House,Seattle,3.5,1281674.56,NULL
+House,Seattle,4,1172276.41,-8.54
+House,Seattle,4.5,985956.7,-15.89
+House,Seattle,5,899896.15,-8.73
+Others,Chicago,3.5,1576783.37,NULL
+Others,"Los Angeles",4,1434671.39,NULL
+Others,"Los Angeles",4.5,744076.67,-48.14
+Others,"Los Angeles",5,968371.49,30.14
+Others,Miami,3.5,1558391.71,NULL
+Others,Miami,5,1093872.8,-29.81
+Others,"New York",3.5,1454734.76,NULL
+Others,"New York",4.5,1249764.9,-14.09
+Others,"New York",5,1425551.42,14.07
+Others,"San Francisco",3.5,1316086.72,NULL
+Others,"San Francisco",4,315228.08,-76.05
+Others,"San Francisco",4.5,1128353.04,257.95
+Others,"San Francisco",5,1301061.59,15.31
+Others,Seattle,3.5,1412698.58,NULL
+Others,Seattle,4,484127.25,-65.73
+Others,Seattle,4.5,364397.53,-24.73
+Others,Seattle,5,244496.34,-32.9
+Townhouse,Chicago,3.5,1151138.4,NULL
+Townhouse,Chicago,4,994050.74,-13.65
+Townhouse,Chicago,4.5,1018345.96,2.44
+Townhouse,Chicago,5,1190134.99,16.87
+Townhouse,"Los Angeles",3.5,1389428.46,NULL
+Townhouse,"Los Angeles",4,1287826.75,-7.31
+Townhouse,"Los Angeles",4.5,1093886.81,-15.06
+Townhouse,"Los Angeles",5,1251725.25,14.43
+Townhouse,Miami,3.5,957360.72,NULL
+Townhouse,Miami,4,959323.52,0.21
+Townhouse,Miami,4.5,1068465.96,11.38
+Townhouse,Miami,5,912182.55,-14.63
+Townhouse,"New York",3.5,1212319.06,NULL
+Townhouse,"New York",4,1262280.41,4.12
+Townhouse,"New York",4.5,1139962.22,-9.69
+Townhouse,"New York",5,1156647.41,1.46
+Townhouse,"San Francisco",3.5,873576.35,NULL
+Townhouse,"San Francisco",4,1114173.39,27.54
+Townhouse,"San Francisco",4.5,815596.37,-26.8
+Townhouse,"San Francisco",5,1317719.49,61.57
+Townhouse,Seattle,3.5,980853.43,NULL
+Townhouse,Seattle,4,1060827.02,8.15
+Townhouse,Seattle,4.5,1224160.59,15.4
+Townhouse,Seattle,5,825383.68,-32.58
